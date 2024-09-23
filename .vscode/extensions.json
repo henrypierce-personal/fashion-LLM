@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-python.isort",
+        "ms-toolsai.jupyter",
+        "ms-azuretools.vscode-docker",
+        "GitHub.vscode-pull-request-github",
+        "github.vscode-github-actions",
+        "njpwerner.autodocstring",
+        "oderwat.indent-rainbow",
+        "eamodio.gitlens",
+        "vscode-icons-team.vscode-icons",
+        "tamasfe.even-better-toml",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "samuelcolvin.jinjahtml"
+    ]
+}
