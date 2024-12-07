@@ -8,9 +8,16 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^2.2.3"
-numpy = "^2.1.1"
+numpy = "^1.1.1"
 pre-commit = "^3.8.0"
-
+scrapegraphai = "^1.21.1"
+ipykernel = "^6.29.5"
+jupyter = "^1.1.1"
+diffusers = "^0.31.0"
+accelerate = "^1.1.0"
+torchvision = "^0.20.1"
+matplotlib = "^3.9.2"
+torch = "2.5.1"
 
 [build-system]
 requires = ["poetry-core"]
